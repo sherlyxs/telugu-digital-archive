@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+av
+numpy
+opencv-python
+soundfile
